@@ -1,13 +1,8 @@
 package MainPackage;
 
-public class Main {
+public class ZhouYiren {
 
 	public static void main(String[] args) {
-		
-		/*
-		 * My Github Account Name: BuckerLeon
-		 * 
-		 */
 			
 		GibbonsB.HelloWorld();
 	}
